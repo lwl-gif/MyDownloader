@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyDownloader</string>
+    <string name="activity_launch_advertisement">这是一个开机广告</string>
+</resources>
